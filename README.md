@@ -1,6 +1,6 @@
 # Goal
 
-Write a Ruby library that allows qualified job seekers to apply for a job with a fixed number of workers needed, typically less than 100. Assume there are many applicants and the applicants are quick to apply. There could be hundreds of people applying at once. If a job accepts N number of applications and N people apply, no more candidates can apply and an error is produced.
+Write a Ruby library that allows qualified job seekers to apply for a job with a fixed number of workers needed, typically less than 100. Assume there are many applicants and they are quick to apply, within seconds of the job posting. There could be hundreds of people applying at once to a job that accepts less than 100 workers. If a job needs N number of workers and N people apply, no more candidates can apply and an error is produced.
 
 Assume Postgres is available to you. Either utilize Postgres in your solution or create a mock/dummy object with comments on what each function would do, like this:
 
@@ -19,7 +19,7 @@ Finally, write a short script to exercise your code. However you'd like to exerc
 
 ## Expectations
 
-Try to time-box the exercise to around 2 hours. Keep this constraint in mind as you work, it's very possible that certain items don't get finished, try to save a few minutes to summarize your efforts in a readme or email if this is the case.
+Try to time-box the exercise to 2-3 hours. Keep this constraint in mind as you work, it's very possible that certain items don't get finished, try to save a few minutes to summarize your efforts in a readme or email if this is the case.
 
 ## Requirements
 
@@ -33,7 +33,7 @@ Try to time-box the exercise to around 2 hours. Keep this constraint in mind as 
   - RSpec
   - test-unit
   - minitest
-- Email your solution as a .zip package to bree.thomas@vangst.com, include 'Software Engineer Take-Home'
+- Email your solution as a .zip package to mike.pack@vangst.com, include 'Software Engineer Take-Home'
 
 ## Evaluation
 
