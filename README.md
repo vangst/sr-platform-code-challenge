@@ -42,7 +42,7 @@ Try to time-box the exercise to _2-3 hours_. Keep this constraint in mind as you
 - Provide instructions on how to run your program
 - Use a recent stable version of Ruby MRI
 - Leverage Git, and demonstrate your workflow / style via commits
-- Ensure there are tests included; use any of the following testing suites you perfer:
+- Ensure there are tests included; use any of the following testing suites you prefer:
   - RSpec
   - test-unit
   - minitest
