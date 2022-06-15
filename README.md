@@ -52,7 +52,7 @@ Try to time-box the exercise to _2-3 hours_. Keep this constraint in mind as you
 
 The qualities we're looking for are:
 - Clarity: is the code organized and structured well, is it easy to read and comprehend?
-- Maintainability:: if it had to be updated / extended how easy would that be?
+- Maintainability: if it had to be updated / extended how easy would that be?
 - Testability: are the tests comprehensive and covering the appropriate use cases?
 
 ### Questions❓
