@@ -1,11 +1,11 @@
 # Challenge:
 
 
-### Goal: 
+### Goal 🥇
 
 Write a Ruby library that allows qualified job seekers to apply for a job with a fixed number of workers needed, typically less than 100. Assume there are many applicants and they are quick to apply, within seconds of the job posting. There could be hundreds of people applying at once to a job that accepts less than 100 workers. If a job needs N number of workers and N people apply, no more candidates can apply and an error is produced.
 
-### Constraints:
+### Constraints 🛤️
 
 The style, strategy, and tools you use to accomplish this task are up to you.
 
@@ -24,17 +24,17 @@ end
 
 Whatever makes sense to you...
 
-### Suggestions:
+### Suggestions 🦡
 
 Focus your energy on the core logic to accomplish this task. The library does not need to use Rails nor be accessible to the web, but using Rails is acceptable, and in our opinion the path of least resistance. It would be best to build this logic into a small library as if it were to be used in a Rails application and/or model behavior the way you would in your ideal Rails app.
 
 Finally, write a short script to exercise your code. However you'd like to exercise your code is up to you, but this should be an executable Ruby script that can be run on the command line. Your program should output some details about its execution, like a report of the number of successful/failed applications.
 
-### Expectations:
+### Expectations ⌛
 
 Try to time-box the exercise to _2-3 hours_. Keep this constraint in mind as you work, it's very possible that certain items don't get finished, try to save a few minutes to summarize your efforts in a readme or email if this is the case.
 
-### Requirements:
+### Requirements ✔️
 
 - Model entities/attributes you would typically persist to a database
 - Model job/application system
@@ -55,6 +55,8 @@ The qualities we're looking for are:
 - Maintainability:: if it had to be updated / extended how easy would that be?
 - Testability: are the tests comprehensive and covering the appropriate use cases?
 
-### Questions:
+### Questions❓
 
-If you have questions about the instructions, please ask. We want you to be successful. If you have a question about how to handle something that wasn't specifically addressed, make a decision and feel free to call it out in your readme or email with your reasoning behind your decision. No right or wrong answers for these types of things. Good luck! 
+If you have questions about the instructions, please ask. We want you to be successful. If you have a question about how to handle something that wasn't specifically addressed, make a decision and feel free to call it out in your readme or email with your reasoning behind your decision. No right or wrong answers for these types of things. 
+
+Good luck! 🚀
