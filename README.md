@@ -43,7 +43,7 @@ Try to time-box the exercise to _2-3 hours_. Keep this constraint in mind as you
 - Use a recent stable version of Ruby MRI
 - Leverage Git, and demonstrate your workflow / style via commits
 - Ensure there are tests included; use any of the following testing suites you prefer:
-  - RSpec
+  - RSpec (we use rspec at Vangst)
   - test-unit
   - minitest
 - Email your solution as a .zip package to andrew.carmer@vangst.com, include 'Software Engineer Take-Home'
