@@ -1,4 +1,4 @@
-## Sr Software Engineer Questions: 
+# Sr Software Engineer Questions: 
 
 We try to do work asynchronously when we can. In that spirit we'd like to see how well you can explain the way you think in writing! 
 
