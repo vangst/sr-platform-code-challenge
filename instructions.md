@@ -14,8 +14,8 @@ When a candidate submits their solution, the goal now is to restructure their gi
 
 ### Resources:
 
-- [Challenge](https://github.com/Vangsters/sr-platform-code-challenge)
-- [Rubric](https://github.com/Vangsters/sr-platform-code-challenge/blob/master/rubric.md)
+- [Challenge](https://github.com/vangst/sr-platform-code-challenge)
+- [Rubric](https://github.com/vangst/sr-platform-code-challenge/blob/master/rubric.md)
 - [JD](https://vangst.com/jobs/54dad8d6-092b-4974-be27-2459fff897cc)
 
 ### Submission email:
