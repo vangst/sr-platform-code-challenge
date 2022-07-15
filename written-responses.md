@@ -3,7 +3,7 @@
 We try to do work asynchronously when we can. In that spirit we'd like to see how well you can explain the way you think in writing! 
 
 Keep in mind your audience - we are your peers not your professor. 
-Not saying we don't appreciate good grammar, but keep it light, let your personality come out, and be efficient. 
+Not to say we don't appreciate good grammar, but keep it light, let your personality come out, and maybe most important try to be efficient. 
 
 #### Question 1: 
 
