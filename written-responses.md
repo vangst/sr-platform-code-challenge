@@ -18,4 +18,4 @@ An open source library we've used in the application for months or more appears 
 
 #### Question 3: 
 
-(Self Starter Question)
+We're in the middle of a cycle (sprint) and your story was delivered earlier than expected. What do you do?
