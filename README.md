@@ -26,7 +26,7 @@ Whatever makes sense to you...
 
 ### Suggestions 🦡
 
-Focus your energy on the core logic to accomplish this task. The library does not need to use Rails nor be accessible to the web, but using Rails is acceptable, and in our opinion the path of least resistance. It would be best to build this logic into a small library as if it were to be used in a Rails application and/or model behavior the way you would in your ideal Rails app.
+Focus your energy on the core logic to accomplish this task. The library does not need to use Rails nor be accessible to the web, but using Rails is acceptable. It would be best to build this logic into a small library as if it were to be used in a Rails application and/or model behavior the way you would in your ideal Rails app.
 
 Finally, write a short script to exercise your code. However you'd like to exercise your code is up to you, but this should be an executable Ruby script that can be run on the command line. Your program should output some details about its execution, like a report of the number of successful/failed applications.
 
