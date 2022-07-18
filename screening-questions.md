@@ -5,6 +5,8 @@ At Vangst, we try to do work asynchronously when we can. In that spirit we'd lik
 Keep in mind your audience - we are your peers not your professor. 
 Not to say we don't appreciate good grammar, but keep it light, let your personality come out, and maybe most important try to be efficient. 
 
+**To submit your responses, create a gist on your github profile -> `gist.github.com/<yourGithubUsername>` -> and share this link with your point of contact when you're finished.** 
+
 #### Question 1: 
 
 Let's imagine a scenario where you are a Sr Software Engineer working at Vangst, and you are working with your Product Manager to shape a new story to work on in an upcomming cycle. 
