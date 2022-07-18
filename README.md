@@ -36,6 +36,7 @@ Try to time-box the exercise to _2-3 hours_. Keep this constraint in mind as you
 
 ### Requirements ✔️
 
+- Use git
 - Model entities/attributes you would typically persist to a database
 - Model job/application system
 - Build an executable Ruby program
