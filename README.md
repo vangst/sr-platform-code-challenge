@@ -49,7 +49,7 @@ Try to time-box the exercise to _2-3 hours_. Keep this constraint in mind as you
   - minitest
 - Email your solution as a .zip package to andrew.carmer@vangst.com, include 'Software Engineer Take-Home'
 
-### Evaluation 🧑‍🏫
+### Evaluation :checkered_flag: 
 
 The qualities we're looking for are:
 - Clarity: is the code organized and structured well, is it easy to read and comprehend?
